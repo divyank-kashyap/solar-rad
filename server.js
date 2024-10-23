@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 // Replace with your OpenWeather API key
-const API_KEY = '14bfaa67dd97ad5c6370d652a4ac117d';
+const API_KEY = '';
 
 app.use(express.static('public'));
 
